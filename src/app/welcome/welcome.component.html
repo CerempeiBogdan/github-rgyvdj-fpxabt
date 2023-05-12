@@ -1,0 +1,15 @@
+<div class="container bg-light py-5">
+    <h1 class="display-5 fw-bold">Il gioco delle bandiere</h1>
+    <p class="col-md-8 fs-4">Questo quiz contiene 9 domande di geografia</p>
+    <h4>Regole:</h4>
+    <ol>
+        <li>Per ogni risposta coretta vinci 10 punti</li>
+        <li>Per ogni risposta sbagliata perdi 5 punti</li>
+        <li>Per ogni risposta ha 60 secondi di tempo</li>
+    </ol>
+    <div class="name col-md-4 my-3">
+        <label for="">Inserire il suo nome:</label>
+        <input #name type="text" class="form-control">
+    </div>
+    <button class="btn btn-primary btn-lg" routerLink="/question" (click)="startQuiz()">Start the Quiz!!</button>
+</div>

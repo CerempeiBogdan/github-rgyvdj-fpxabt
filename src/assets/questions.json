@@ -1,0 +1,156 @@
+{
+    "questions": [{
+            "questionText": "Qual è il paese più grande del mondo",
+            "options": [{
+                    "text": "Russia",
+                    "correct": true
+                },
+                {
+                    "text": "Canada"
+                },
+                {
+                    "text": "Brasile"
+                },
+                {
+                    "text": "Cina"
+                }
+            ]
+        },
+        {
+            "questionText": "Qual è il fiume più lungo del mondo",
+            "options": [{
+                    "text": "Nilo"
+                },
+                {
+                    "text": "Danubio"
+                },
+                {
+                    "text": "Volga"
+                },
+                {
+                    "text": "Rio delle Ammazzoni",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Qual è il monte più alto del mondo",
+            "options": [{
+                    "text": "Kilimangiaro"
+                },
+                {
+                    "text": "Everest",
+                    "correct": true
+                },
+                {
+                    "text": "Monte Bianco"
+                },
+                {
+                    "text": "Monte Fuji"
+                }
+            ]
+        },
+        {
+            "questionText": "Qual è il lago più nel mondo",
+            "options": [{
+                    "text": "Lago di Garda"
+                },
+                {
+                    "text": "Mar Caspio",
+                    "correct": true
+                },
+                {
+                    "text": "Lagoda"
+                },
+                {
+                    "text": "Fiume Maggiore"
+                }
+            ]
+        },
+        {
+            "questionText": "Qual è il punto più profondo del mondo",
+            "options": [{
+                    "text": "Fossa delle Marianne",
+                    "correct": true
+                },
+                {
+                    "text": "Fossa del Tonga"
+                },
+                {
+                    "text": "Fossa delle Filippine"
+                },
+                {
+                    "text": "Fossa delle Kurili-Kamchatka"
+                }
+            ]
+        },
+        {
+            "questionText": "Qual è il vulcano più alto del mondo",
+            "options": [{
+                    "text": "El Condor"
+                },
+                {
+                    "text": "Etna"
+                },
+                {
+                    "text": "Vesuvio"
+                },
+                {
+                    "text": "Nevados Ojos del Salado",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Qual è l'isola più estesa del mondo",
+            "options": [{
+                    "text": "Britannia"
+                },
+                {
+                    "text": "Groenladia",
+                    "correct": true
+                },
+                {
+                    "text": "Madagascar"
+                },
+                {
+                    "text": "Nuova Guinea"
+                }
+            ]
+        },
+        {
+            "questionText": "Qual è il paese più popolato del mondo",
+            "options": [{
+                    "text": "Cina",
+                    "correct": true
+                },
+                {
+                    "text": "India"
+                },
+                {
+                    "text": "Bangladesh"
+                },
+                {
+                    "text": "Stati Uniti"
+                }
+            ]
+        },
+        {
+            "questionText": "Qual è il paese più piccolo del mondo",
+            "options": [{
+                    "text": "Città del Vaticano",
+                    "correct": true
+                },
+                {
+                    "text": "Andorra"
+                },
+                {
+                    "text": "Lichtenstein"
+                },
+                {
+                    "text": "San Marino"
+                }
+            ]
+        }
+    ]
+}
